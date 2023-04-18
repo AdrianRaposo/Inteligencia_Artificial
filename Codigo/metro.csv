@@ -1,0 +1,56 @@
+ORIGEN;DESTINO;DISTANCIA;TIEMPO
+Piraeus;Faliro;2.2;4
+Faliro;Moschato;1.90;3
+Moschato;Kallithea;1.65;2
+Kallithea;Tavros;0.65;2
+Tavros;Petralona;0.81;2
+Petralona;Thissio;1.55;2
+Thissio;Monastiraki;0.46;2
+Monastiraki;Omonia;0.93;2
+Omonia;Victoria;1.00;2
+Victoria;Attiki;1.96;2
+Attiki;Aghios Nikolaos;0.93;2
+Aghios Nikolaos;Kato Patissia;0.55;2
+Kato Patissia;Aghios Eleftherios;1.01;2
+Aghios Eleftherios;Ano Patissia;0.55;1
+Ano Patissia;Perissos;1.28;3
+Perissos;Pefkakia;0.69;1
+Pefkakia;Nea Ionia;0.70;2
+Nea Ionia;Iraklio;1.29;2
+Iraklio;Irini;1.53;3
+Irini;Neratziotissa;1.04;2
+Neratziotissa;Maroussi;1.67;3
+Maroussi;KAT;1.16;2
+KAT;Kifissia;1.05;3
+Aghios Dimitrios;Dafni;1.02;2
+Dafni;Aghios Ioannis;0.86;2
+Aghios Ioannis;Neos Kosmos;0.56;1
+Neos Kosmos;Sygrou-Fix;1.16;1
+Sygrou-Fix;Akropoli;0.56;2
+Akropoli;Syntagma;0.86;1
+Syntagma;Panepistimio;0.67;2
+Panepistimio;Omonia;0.54;1
+Omonia;Metaxourghio;0.72;2
+Metaxourghio;Larissa Station;0.61;1
+Larissa Station;Attiki;0.80;2
+Attiki;Sepolia;0.88;2
+Sepolia;Aghios Antonios;1.23;2
+Egaleo;Eleonas;0.91;2
+Eleonas;Kerameikos;2.11;2
+Kerameikos;Monastiraki;1.31;2
+Monastiraki;Syntagma;0.87;3
+Syntagma;Evangelismos;1.04;1
+Evangelismos;Megaro Moussikis;0.6;1
+Megaro Moussikis;Ambelokipi;0.91;2
+Ambelokipi;Panormou;0.96;1
+Panormou;Katehaki;1.09;2
+Katehaki;Ethniki Amyna;1.07;2
+Ethniki Amyna;Holargos;0.87;2
+Holargos;Nomismatokopio;1.01;1
+Nomismatokopio;Aghia Paraskevi;1.03;2
+Aghia Paraskevi;Halandri; 0.93;2
+Halandri;Doukissis Plakentias;1.15;1
+Doukissis Plakentias;Pallini;4.14;6
+Pallini;Paiania-Kantza;2.43;3
+Paiania-Kantza;Koropi;8.31;6
+Koropi;Airport;5.31;5

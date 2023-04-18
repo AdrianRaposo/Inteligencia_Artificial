@@ -1,0 +1,590 @@
+[
+    {
+        "Line": 1,
+        "Dia": 1,
+        "HorarioInicio":"05:00",
+        "HorarioFinal":"05:30",
+        "Frecuencia": 15
+    },
+    {
+        "Line": 1,
+        "Dia": 1,
+        "HorarioInicio":"05:30",
+        "HorarioFinal":"07:00",
+        "Frecuencia": 7.5
+    },
+    {
+        "Line": 1,
+        "Dia": 1,
+        "HorarioInicio":"07:00",
+        "HorarioFinal":"10:00",
+        "Frecuencia": 6
+    },
+    {
+        "Line": 1,
+        "Dia": 1,
+        "HorarioInicio":"10:00",
+        "HorarioFinal":"15:00",
+        "Frecuencia": 7.5
+    },
+    {
+        "Line": 1,
+        "Dia": 1,
+        "HorarioInicio":"15:00",
+        "HorarioFinal":"18:00",
+        "Frecuencia": 6
+    },
+    {
+        "Line": 1,
+        "Dia": 1,
+        "HorarioInicio":"18:00",
+        "HorarioFinal":"22:30",
+        "Frecuencia": 7.5
+    },
+    {
+        "Line": 1,
+        "Dia": 1,
+        "HorarioInicio":"22:30",
+        "HorarioFinal":"23:00",
+        "Frecuencia": 11.5
+    },
+    {
+        "Line": 1,
+        "Dia": 1,
+        "HorarioInicio":"23:00",
+        "HorarioFinal":"23:30",
+        "Frecuencia": 12.5
+    },
+    {
+        "Line": 1,
+        "Dia": 1,
+        "HorarioInicio":"23:30",
+        "HorarioFinal":"23:59",
+        "Frecuencia": 15
+    },
+    {
+        "Line": 1,
+        "Dia": 1,
+        "HorarioInicio":"00:00",
+        "HorarioFinal":"01:00",
+        "Frecuencia": 15
+    },
+    {
+        "Line": 1,
+        "Dia": 2,
+        "HorarioInicio":"05:00",
+        "HorarioFinal":"05:30",
+        "Frecuencia": 15
+    },
+    {
+        "Line": 1,
+        "Dia": 2,
+        "HorarioInicio":"05:30",
+        "HorarioFinal":"07:00",
+        "Frecuencia": 7.5
+    },
+    {
+        "Line": 1,
+        "Dia": 2,
+        "HorarioInicio":"07:00",
+        "HorarioFinal":"10:00",
+        "Frecuencia": 6
+    },
+    {
+        "Line": 1,
+        "Dia": 2,
+        "HorarioInicio":"10:00",
+        "HorarioFinal":"15:00",
+        "Frecuencia": 7.5
+    },
+    {
+        "Line": 1,
+        "Dia": 2,
+        "HorarioInicio":"15:00",
+        "HorarioFinal":"18:00",
+        "Frecuencia": 6
+    },
+    {
+        "Line": 1,
+        "Dia": 2,
+        "HorarioInicio":"18:00",
+        "HorarioFinal":"22:30",
+        "Frecuencia": 7.5
+    },
+    {
+        "Line": 1,
+        "Dia": 2,
+        "HorarioInicio":"22:30",
+        "HorarioFinal":"23:00",
+        "Frecuencia": 11.5
+    },
+    {
+        "Line": 1,
+        "Dia": 2,
+        "HorarioInicio":"23:00",
+        "HorarioFinal":"23:30",
+        "Frecuencia": 12.5
+    },
+    {
+        "Line": 1,
+        "Dia": 2,
+        "HorarioInicio":"23:30",
+        "HorarioFinal":"23:59",
+        "Frecuencia": 15
+    },
+    {
+        "Line": 1,
+        "Dia": 2,
+        "HorarioInicio":"00:00",
+        "HorarioFinal":"01:00",
+        "Frecuencia": 15
+    },
+    {
+        "Line": 1,
+        "Dia": 3,
+        "HorarioInicio":"05:00",
+        "HorarioFinal":"05:30",
+        "Frecuencia": 15
+    },
+    {
+        "Line": 1,
+        "Dia": 3,
+        "HorarioInicio":"05:30",
+        "HorarioFinal":"23:30",
+        "Frecuencia": 10.5
+    },
+    {
+        "Line": 1,
+        "Dia": 3,
+        "HorarioInicio":"23:30",
+        "HorarioFinal":"23:59",
+        "Frecuencia": 15
+    },
+    {
+        "Line": 1,
+        "Dia": 3,
+        "HorarioInicio":"00:00",
+        "HorarioFinal":"01:00",
+        "Frecuencia": 15
+    },
+    {
+        "Line": 1,
+        "Dia": 4,
+        "HorarioInicio":"05:00",
+        "HorarioFinal":"05:30",
+        "Frecuencia": 15
+    },
+    {
+        "Line": 1,
+        "Dia": 4,
+        "HorarioInicio":"05:30",
+        "HorarioFinal":"23:30",
+        "Frecuencia": 10.5
+    },
+    {
+        "Line": 1,
+        "Dia": 4,
+        "HorarioInicio":"23:30",
+        "HorarioFinal":"23:59",
+        "Frecuencia": 15
+    },
+    {
+        "Line": 1,
+        "Dia": 4,
+        "HorarioInicio":"00:00",
+        "HorarioFinal":"01:00",
+        "Frecuencia": 15
+    },
+    {
+        "Line": 2,
+        "Dia": 1,
+        "HorarioInicio":"05:30",
+        "HorarioFinal":"06:00",
+        "Frecuencia": 10
+    },
+    {
+        "Line": 2,
+        "Dia": 1,
+        "HorarioInicio":"06:00",
+        "HorarioFinal":"06:30",
+        "Frecuencia": 5
+    },
+    {
+        "Line": 2,
+        "Dia": 1,
+        "HorarioInicio":"06:30",
+        "HorarioFinal":"10:00",
+        "Frecuencia": 4.5
+    },
+    {
+        "Line": 2,
+        "Dia": 1,
+        "HorarioInicio":"10:00",
+        "HorarioFinal":"13:30",
+        "Frecuencia": 5
+    },
+    {
+        "Line": 2,
+        "Dia": 1,
+        "HorarioInicio":"13:30",
+        "HorarioFinal":"17:30",
+        "Frecuencia": 4.5
+    },
+    {
+        "Line": 2,
+        "Dia": 1,
+        "HorarioInicio":"17:30",
+        "HorarioFinal":"20:30",
+        "Frecuencia": 5
+    },
+    {
+        "Line": 2,
+        "Dia": 1,
+        "HorarioInicio":"20:30",
+        "HorarioFinal":"22:00",
+        "Frecuencia": 7
+    },
+    {
+        "Line": 2,
+        "Dia": 1,
+        "HorarioInicio":"22:30",
+        "HorarioFinal":"23:59",
+        "Frecuencia": 10
+    },
+    {
+        "Line": 2,
+        "Dia": 1,
+        "HorarioInicio":"00:00",
+        "HorarioFinal":"00:20",
+        "Frecuencia": 10
+    },
+    {
+        "Line": 2,
+        "Dia": 2,
+        "HorarioInicio":"05:30",
+        "HorarioFinal":"06:00",
+        "Frecuencia": 10
+    },
+    {
+        "Line": 2,
+        "Dia": 2,
+        "HorarioInicio":"06:00",
+        "HorarioFinal":"06:30",
+        "Frecuencia": 5
+    },
+    {
+        "Line": 2,
+        "Dia": 2,
+        "HorarioInicio":"06:30",
+        "HorarioFinal":"10:00",
+        "Frecuencia": 4.5
+    },
+    {
+        "Line": 2,
+        "Dia": 2,
+        "HorarioInicio":"10:00",
+        "HorarioFinal":"13:30",
+        "Frecuencia": 5
+    },
+    {
+        "Line": 2,
+        "Dia": 2,
+        "HorarioInicio":"13:30",
+        "HorarioFinal":"17:30",
+        "Frecuencia": 4.5
+    },
+    {
+        "Line": 2,
+        "Dia": 2,
+        "HorarioInicio":"17:30",
+        "HorarioFinal":"20:30",
+        "Frecuencia": 5
+    },
+    {
+        "Line": 2,
+        "Dia": 2,
+        "HorarioInicio":"20:30",
+        "HorarioFinal":"22:00",
+        "Frecuencia": 7
+    },
+    {
+        "Line": 2,
+        "Dia": 2,
+        "HorarioInicio":"22:30",
+        "HorarioFinal":"23:59",
+        "Frecuencia": 10
+    },
+    {
+        "Line": 2,
+        "Dia": 2,
+        "HorarioInicio":"00:00",
+        "HorarioFinal":"00:20",
+        "Frecuencia": 10
+    },
+    {
+        "Line": 2,
+        "Dia": 2,
+        "HorarioInicio":"00:20",
+        "HorarioFinal":"01:30",
+        "Frecuencia": 15
+    },
+    {
+        "Line": 2,
+        "Dia": 3,
+        "HorarioInicio":"05:30",
+        "HorarioFinal":"09:00",
+        "Frecuencia": 10
+    },
+    {
+        "Line": 2,
+        "Dia": 3,
+        "HorarioInicio":"09:00",
+        "HorarioFinal":"17:00",
+        "Frecuencia": 7
+    },
+    {
+        "Line": 2,
+        "Dia": 3,
+        "HorarioInicio":"17:30",
+        "HorarioFinal":"23:59",
+        "Frecuencia": 10
+    },
+    {
+        "Line": 2,
+        "Dia": 3,
+        "HorarioInicio":"00:00",
+        "HorarioFinal":"00:20",
+        "Frecuencia": 10
+    },
+    {
+        "Line": 2,
+        "Dia": 3,
+        "HorarioInicio":"00:20",
+        "HorarioFinal":"01:30",
+        "Frecuencia": 15
+    },
+    {
+        "Line": 2,
+        "Dia": 4,
+        "HorarioInicio":"05:30",
+        "HorarioFinal":"9:00",
+        "Frecuencia": 10
+    },
+    {
+        "Line": 2,
+        "Dia": 4,
+        "HorarioInicio":"09:00",
+        "HorarioFinal":"17:00",
+        "Frecuencia": 7
+    },
+    {
+        "Line": 2,
+        "Dia": 4,
+        "HorarioInicio":"17:30",
+        "HorarioFinal":"23:59",
+        "Frecuencia": 10
+    },
+    {
+        "Line": 2,
+        "Dia": 4,
+        "HorarioInicio":"00:00",
+        "HorarioFinal":"00:20",
+        "Frecuencia": 10
+    },
+    {
+        "Line": 3,
+        "Dia": 1,
+        "HorarioInicio": "05:30",
+        "HorarioFinal": "06:00",
+        "Frecuencia": 9
+    },
+    {
+        "Line": 3,
+        "Dia": 1,
+        "HorarioInicio": "06:00",
+        "HorarioFinal": "06:30",
+        "Frecuencia": 5
+    },
+    {
+        "Line": 3,
+        "Dia": 1,
+        "HorarioInicio": "06:30",
+        "HorarioFinal": "10:00",
+        "Frecuencia": 4
+    },
+    {
+        "Line": 3,
+        "Dia": 1,
+        "HorarioInicio": "10:00",
+        "HorarioFinal": "13:30",
+        "Frecuencia": 5
+    },
+    {
+        "Line": 3,
+        "Dia": 1,
+        "HorarioInicio": "13:30",
+        "HorarioFinal": "17:30",
+        "Frecuencia": 4
+    },
+    {
+        "Line": 3,
+        "Dia": 1,
+        "HorarioInicio": "17:30",
+        "HorarioFinal": "20:00",
+        "Frecuencia": 6
+    },
+    {
+        "Line": 3,
+        "Dia": 1,
+        "HorarioInicio": "20:00",
+        "HorarioFinal": "22:00",
+        "Frecuencia": 7
+    },
+    {
+        "Line": 3,
+        "Dia": 1,
+        "HorarioInicio": "22:00",
+        "HorarioFinal": "23:59",
+        "Frecuencia": 9
+    },
+    {
+        "Line": 3,
+        "Dia": 1,
+        "HorarioInicio": "00:00",
+        "HorarioFinal": "00:20",
+        "Frecuencia": 9
+    },
+    {
+        "Line": 3,
+        "Dia": 1,
+        "HorarioInicio": "00:20",
+        "HorarioFinal": "01:30",
+        "Frecuencia": 15
+    },
+    {
+        "Line": 3,
+        "Dia": 2,
+        "HorarioInicio": "05:30",
+        "HorarioFinal": "06:00",
+        "Frecuencia": 9
+    },
+    {
+        "Line": 3,
+        "Dia": 2,
+        "HorarioInicio": "06:00",
+        "HorarioFinal": "06:30",
+        "Frecuencia": 5
+    },
+    {
+        "Line": 3,
+        "Dia": 2,
+        "HorarioInicio": "06:30",
+        "HorarioFinal": "10:00",
+        "Frecuencia": 4
+    },
+    {
+        "Line": 3,
+        "Dia": 2,
+        "HorarioInicio": "10:00",
+        "HorarioFinal": "13:30",
+        "Frecuencia": 5
+    },
+    {
+        "Line": 3,
+        "Dia": 2,
+        "HorarioInicio": "13:30",
+        "HorarioFinal": "17:30",
+        "Frecuencia": 4
+    },
+    {
+        "Line": 3,
+        "Dia": 2,
+        "HorarioInicio": "17:30",
+        "HorarioFinal": "20:00",
+        "Frecuencia": 6
+    },
+    {
+        "Line": 3,
+        "Dia": 2,
+        "HorarioInicio": "20:00",
+        "HorarioFinal": "22:30",
+        "Frecuencia": 7
+    },
+    {
+        "Line": 3,
+        "Dia": 2,
+        "HorarioInicio": "22:00",
+        "HorarioFinal": "23:59",
+        "Frecuencia": 9
+    },
+    {
+        "Line": 3,
+        "Dia": 2,
+        "HorarioInicio": "00:00",
+        "HorarioFinal": "00:20",
+        "Frecuencia": 9
+    },
+    {
+        "Line": 3,
+        "Dia": 3,
+        "HorarioInicio": "05:30",
+        "HorarioFinal": "09:00",
+        "Frecuencia": 9
+    },
+    {
+        "Line": 3,
+        "Dia": 3,
+        "HorarioInicio": "09:00",
+        "HorarioFinal": "17:00",
+        "Frecuencia": 7
+    },
+    {
+        "Line": 3,
+        "Dia": 3,
+        "HorarioInicio": "17:00",
+        "HorarioFinal": "23:59",
+        "Frecuencia": 9
+    },
+    {
+        "Line": 3,
+        "Dia": 3,
+        "HorarioInicio": "00:00",
+        "HorarioFinal": "00:20",
+        "Frecuencia": 9
+    },
+    {
+        "Line": 3,
+        "Dia": 3,
+        "HorarioInicio": "00:20",
+        "HorarioFinal": "01:30",
+        "Frecuencia": 15
+    },
+    {
+        "Line": 3,
+        "Dia": 4,
+        "HorarioInicio": "05:30",
+        "HorarioFinal": "09:00",
+        "Frecuencia": 9
+    },
+    {
+        "Line": 3,
+        "Dia": 4,
+        "HorarioInicio": "09:00",
+        "HorarioFinal": "17:00",
+        "Frecuencia": 7
+    },
+    {
+        "Line": 3,
+        "Dia": 4,
+        "HorarioInicio": "17:00",
+        "HorarioFinal": "23:59",
+        "Frecuencia": 9
+    },
+    {
+        "Line": 3,
+        "Dia": 4,
+        "HorarioInicio": "00:00",
+        "HorarioFinal": "00:20",
+        "Frecuencia": 9
+    }
+]

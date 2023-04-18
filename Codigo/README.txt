@@ -1,0 +1,2 @@
+-requirements.bat: proceso que instala los modulos de python usados si no se tienen instalados.
+-run.bat : proceso que ejecuta la interfaz del proyecto.// Si no funciona ejecutar desde editor de texto el gui.py
